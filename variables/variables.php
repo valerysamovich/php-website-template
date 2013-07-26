@@ -1,4 +1,4 @@
 <?php
-$heading='1stWebDesigner PHP Template';
-$footer='Copyright &copy; 2010 1stWebDesigner PHP Template'; 
+$heading='Simple PHP template';
+$footer='Simple PHP template 2013'; 
 ?>
